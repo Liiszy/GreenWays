@@ -44,7 +44,7 @@
     "nome": "Mateus Arturo",
     "email": "marturosantana@gmail.com",
     "senha": "$2b$10$tl1MpDEgZO.9RD8J6VwcKeM23cvy7P3uEIaMIqrPCT8guqv9QhheW",
-    "acesso": "user",
+    "acesso": "admin",
     "foto": "/uploads/profile_6.jpg"
   }
 ]
